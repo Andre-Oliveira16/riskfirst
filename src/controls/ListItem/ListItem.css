@@ -1,0 +1,14 @@
+.container-list-element:hover {
+    background-color: #f8f8fa;
+    cursor: pointer;
+}
+
+.container-nearby {
+    background-color: #f8f8fa;
+    margin-bottom: 5px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
